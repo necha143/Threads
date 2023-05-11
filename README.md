@@ -1,0 +1,1 @@
+[Bytes](https://github.com/necha143/threads/blob/master/src/Bytes.java) - Нить ReadThread должна найти байт, который встречается в файле максимальное число раз (если таких байтов несколько, выбрать наименьший), и добавить его в словарь resultMap </br>
