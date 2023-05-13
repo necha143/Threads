@@ -2,3 +2,4 @@
 [Files](https://github.com/necha143/threads/blob/master/src/Files.java) - Внутри класса files создать нить public static ReadFileThread, которая реализует интерфейс ReadFileInterface </br>
 [Transactionality](https://github.com/necha143/threads/blob/master/src/Transactionality.java) - Сделать метод joinData транзакционным, т.е. если произошел сбой, то данные не должны быть изменены </br>
 [Double text](https://github.com/necha143/threads/blob/master/src/Double_text.java) - Ридер-обертка должна выводить весь текст и на консоль и в файл, имя которого считано </br>
+[Tracking changes](https://github.com/necha143/threads/blob/master/src/Tracking_changes.java) - Нужно создать объединенную версию строк из обоих файлов и записать эти строки в список lines (Список lines должен содержать объединенную версию строк из файлов, где для каждой строки указана одна из операций ADDED, REMOVED, SAME) </br>
