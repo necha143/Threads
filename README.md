@@ -4,3 +4,4 @@
 [Double text](https://github.com/necha143/threads/blob/master/src/Double_text.java) - Ридер-обертка должна выводить весь текст и на консоль и в файл, имя которого считано </br>
 [Tracking changes](https://github.com/necha143/threads/blob/master/src/Tracking_changes.java) - Нужно создать объединенную версию строк из обоих файлов и записать эти строки в список lines (Список lines должен содержать объединенную версию строк из файлов, где для каждой строки указана одна из операций ADDED, REMOVED, SAME) </br>
 [FileConsoleWriter](https://github.com/necha143/threads/blob/master/src/FileConsoleWriter.java) - Реализовать логику FileConsoleWriter </br>
+[Tegs](https://github.com/necha143/Threads/blob/master/src/Tegs.java) - Вывести на консоль все теги, которые соответствуют заданному тегу </br>
